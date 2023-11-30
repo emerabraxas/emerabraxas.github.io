@@ -1,0 +1,234 @@
+<svg id="Layer_1" fill="rgb(52, 58, 64)" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 467.97">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: rgb(52, 58, 64);
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 18px;
+        opacity: 0;
+      }
+
+      #line-1 {
+        animation: draw-line-1 10s linear forwards infinite;
+      }
+      #line-2 {
+        animation: draw-line-2 10s linear forwards infinite;
+      }
+      #line-3 {
+        animation: draw-line-3 10s linear forwards infinite;
+      }
+      #line-4 {
+        animation: draw-line-4 10s linear forwards infinite;
+      }
+      #line-5 {
+        animation: draw-line-5 10s linear forwards infinite;
+      }
+      #line-6 {
+        animation: draw-line-6 10s linear forwards infinite;
+      }
+      #line-7 {
+        animation: draw-line-7 10s linear forwards infinite;
+      }
+      #line-8 {
+        animation: draw-line-8 10s linear forwards infinite;
+      }
+      #line-9 {
+        animation: draw-line-9 10s linear forwards infinite;
+      }
+      #line-10 {
+        animation: draw-line-10 10s linear forwards infinite;
+      }
+
+      @keyframes draw-line-1 {
+        0% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        10% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-2 {
+        0% {
+          opacity: 0;
+        }
+        9% {
+          opacity: 0;
+        }
+        10% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        20% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-3 {
+        0% {
+          opacity: 0;
+        }
+        19% {
+          opacity: 0;
+        }
+        20% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        30% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-4 {
+        0% {
+          opacity: 0;
+        }
+        29% {
+          opacity: 0;
+        }
+        30% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        40% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-5 {
+        0% {
+          opacity: 0;
+        }
+        39% {
+          opacity: 0;
+        }
+        40% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        50% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-6 {
+        0% {
+          opacity: 0;
+        }
+        49% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        60% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-7 {
+        0% {
+          opacity: 0;
+        }
+        59% {
+          opacity: 0;
+        }
+        60% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        70% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-8 {
+        0% {
+          opacity: 0;
+        }
+        69% {
+          opacity: 0;
+        }
+        70% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        80% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-9 {
+        0% {
+          opacity: 0;
+        }
+        79% {
+          opacity: 0;
+        }
+        80% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        90% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+      @keyframes draw-line-10 {
+        0% {
+          opacity: 0;
+        }
+        89% {
+          opacity: 0;
+        }
+        90% {
+          opacity: 1;
+          stroke-dasharray: 0 100%;
+        }
+        99% {
+          stroke-dasharray: 100% 100%;
+        }
+        100%{
+          opacity: 1;
+        }
+      }
+     
+    </style>
+  </defs>
+  <path
+    d="M-98.5,25.3h-15.89C-184.1,1.78-259.83,1.49-328,25.26c-67.41-23.77-146.55-23.49-213.65,0H-584V413.72h317.8v61.79L-222.09,442l44.14,33.54V413.72H-72V25.3ZM-266.22,369.58h-35.31c12.36-3.53,23.83-7.06,35.31-9.71Zm-89.56,0H-536.35C-484.22,346.67-423.6,347.11-355.78,369.58Zm177.83-16.76.32,0a201.88,201.88,0,0,1,57.94,15.85l1.77.88h-60V352.82Zm58.26-310.74,1.77.88h1.77v307.2q-39.25-16.82-86.6-16.55a274.86,274.86,0,0,0-56.41,6l-.56.14a423.68,423.68,0,0,0-59.47,16.63v-316C-254.75,20-183.24,20-119.69,42.08Zm-417.54,0c62.67-22.07,136.83-23,200.38-1.77v316c-3.09-1.06-6.16-2.06-9.22-3-70-23.91-133.51-25.79-188.58-4.36q-2.62,1-5.23,2.11V43h1.77Zm-29.13.88h8.83V369.58h-8.83Zm0,353.1v-8.83h300.14v8.83ZM-195.6,440.2l-26.49-19.42-26.48,19.42V356.34c18.54-3.53,36.19-4.42,53-4.42V440.2Zm105.93-44.14h-88.28v-8.83h88.28Zm-8.83-26.48V43h8.83V369.58Z"
+    transform="translate(584.02 -7.54)" />
+  <line id="line-1" class="cls-1" x1="110.34" y1="80.97" x2="207.45" y2="80.97" />
+  <line id="line-2" class="cls-1" x1="83.02" y1="125.11" x2="198.02" y2="125.11" />
+  <line id="line-3" class="cls-1" x1="83.02" y1="169.25" x2="167.72" y2="169.25" />
+  <line id="line-4" class="cls-1" x1="116.54" y1="213.38" x2="201.25" y2="213.38" />
+  <line id="line-5" class="cls-1" x1="83.02" y1="257.52" x2="198.02" y2="257.52" />
+  <line id="line-6" class="cls-1" x1="304.43" y1="80.97" x2="429.02" y2="80.97" />
+  <line id="line-7" class="cls-1" x1="304.43" y1="125.11" x2="384" y2="125.11" />
+  <line id="line-8" class="cls-1" x1="304.49" y1="169.25" x2="429.02" y2="169.25" />
+  <line id="line-9" class="cls-1" x1="304.49" y1="213.38" x2="388.41" y2="213.38" />
+  <line id="line-10" class="cls-1" x1="338.56" y1="257.52" x2="429.02" y2="257.52" />
+</svg>
